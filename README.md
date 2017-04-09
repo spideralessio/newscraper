@@ -1,0 +1,2 @@
+# newscraper
+Django News Scraper
